@@ -1,0 +1,18 @@
+
+body{
+    background-color:azure;
+    font-size: 25px;
+}
+* {
+    box-sizing:border-box;
+}
+.column{
+    float: left;
+    width: 39.33%;
+    
+}
+.row:after{
+    content:"";
+    display: table;
+    clear:both;
+}
