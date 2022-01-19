@@ -1,4 +1,3 @@
-
 body{
     background-color:azure;
     font-size: 25px;
@@ -15,4 +14,10 @@ body{
     content:"";
     display: table;
     clear:both;
+}
+.location{
+	content:"";
+	position:Center;
+	font-family:aerial;
+	font-size:56;
 }
